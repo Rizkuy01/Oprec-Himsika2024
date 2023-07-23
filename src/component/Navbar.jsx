@@ -32,7 +32,7 @@ const [nav, setNav] = useState(false)
 
             {/* Cart Button */}
             <button className='bg-black text-white hidden md:flex items-center py-2 rounded-full'>
-                <BsFillCartFill size={20} className='mr-2' /> Cart
+                <BsFillCartFill size={20} className='mr-2' /> 
             </button>
 
             {/* Mobile Menu */}
