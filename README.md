@@ -15,4 +15,4 @@ Made for everyone who's wanted recomended foodies and drinkies on Ronggo Waluyo'
 
 ## `Website`
 
-[MIT license](rw-foods.netlify.app).
+[RW Food's](rw-foods.netlify.app).
