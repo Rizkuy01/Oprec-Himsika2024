@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <Hero />
       <HeadlineCards />
-      <Food />
+      {/* <Food /> */}
       {/* <Category /> */}
       <Footer />
     </div>
