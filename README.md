@@ -1,10 +1,9 @@
-# RW Food's 
+# Open Recruitment HIMSIKA 2024
 
-This project is for newest student on Singaperbangsa University
+![image](https://github.com/Rizkuy01/Oprec-Himsika2024/assets/115411913/b72afb93-9820-4a60-afb9-6126a9438489)
 
-## `Introduction`
 
-Made for everyone who's wanted recomended foodies and drinkies on Ronggo Waluyo's Street.
+This project is for new student's on Information System's Singaperbangsa University who want's to joined organization
 
 ## `Tech`
 
@@ -15,4 +14,4 @@ Made for everyone who's wanted recomended foodies and drinkies on Ronggo Waluyo'
 
 ## `Website`
 
-[RW Food's](rw-foods.netlify.app).
+[OPREC HIMSIKA 2024](https://oprec-himsika2024.netlify.app/).
